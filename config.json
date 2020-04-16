@@ -2,7 +2,7 @@
     "theme": "maroon",
     "noSlides": 3,
     "sliderSpeed": 5,
-    "about": "<p>This website allows you to view Masjid Taqwa prayer times</p>",
+    "about": "<p>This website allows you to view Masjid Taqwa prayer times</p><br/><br/><p>Ramadan Timetable 2020:<a href='http://www.masjidtaqwa.co/assets/images/Ramadan2020.png' target='_blank'> Masjid Taqwa Ramadan Timetable</a></p>",
     "gaid": "UA-134866480-1",
     "elm": false
 }
